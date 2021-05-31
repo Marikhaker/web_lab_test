@@ -2,7 +2,8 @@
 
 SERVER RUNS ON PORT 3000
 
-npm start to run server
+npm start to run server.
+
 Than open index.html in two different browsers. 
 Enter your name, send message.
 
